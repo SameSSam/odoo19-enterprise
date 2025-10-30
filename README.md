@@ -2,6 +2,8 @@
 
 **One-command deployment of Odoo 19 Enterprise with 719+ modules on any server!**
 
+> 📖 **中文用户**: 查看 [中文常见问题解答 (FAQ_CN.md)](FAQ_CN.md) 了解企业模块下载和更新的详细说明
+
 ## ✨ Features
 
 - 🎯 **One-command deployment** - Deploy in minutes
@@ -272,13 +274,12 @@ limit_memory_hard = 4294967296
 - 🚨 **Troubleshooting Guide** - Common issues & solutions
 - 🎯 **Best Practices** - Production recommendations
 - 📱 **API Documentation** - Integration guides
+- 🇨🇳 **[Chinese FAQ (中文常见问题)](FAQ_CN.md)** - Enterprise module download & update guide
 
 ### **Quick Links:**
-- [Installation Guide](docs/installation.md)
-- [Configuration Reference](docs/configuration.md)
-- [Troubleshooting](docs/troubleshooting.md)
-- [API Documentation](docs/api.md)
-- [Best Practices](docs/best-practices.md)
+- [Installation Guide](INSTALL.md)
+- [Chinese FAQ (中文)](FAQ_CN.md)
+- [Configuration Example](.env.example)
 
 ## 🆘 Support
 
